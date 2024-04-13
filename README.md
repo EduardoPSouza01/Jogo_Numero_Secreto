@@ -2,7 +2,7 @@
 
 Este é um jogo simples desenvolvido em JavaScript, onde o jogador tenta adivinhar um número aleatório gerado pelo computador.
 
-##Como funciona
+## Como funciona
 
 <ul>
   <li>O programa gera um número aleatório entre 1 e 100.</li>
@@ -12,7 +12,7 @@ Este é um jogo simples desenvolvido em JavaScript, onde o jogador tenta adivinh
   <li>Ao final, o programa informa quantas tentativas foram necessárias para acertar o número.</li>
 </ul>
 
-##Como jogar
+## Como jogar
 
 <ul>
   <li>Abra o arquivo index.html em seu navegador.</li>
