@@ -1,4 +1,4 @@
-let qtdNumero = 10;
+let qtdNumero = 100;
 let listaNumSorteado = [];
 let numberAleatorio = gerarNumeroAleatorio();
 let tentativas = 1;
